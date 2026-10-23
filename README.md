@@ -11,7 +11,7 @@
 
 <br><br>
 
-<img src="./raiden.gift.gif" width="300" alt="Raiden" />
+<img src="./raiden.gif" width="300" alt="Raiden" />
 
 <br>
 
