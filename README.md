@@ -15,27 +15,6 @@
 
 ---
 
-## ⚡ About Me
-
-```js
-const jxme = {
-  handle: "jxmes-spy",
-  role: "Frontend Developer",
-  status: "Student",
-  passion: "Open Source",
-  currentlyLearning: ["Advanced React", "System Design"],
-  lookingFor: "Open-source projects to contribute to",
-  funFact: "I debug better with music on 🎧",
-};
-```
-
-- 🌐 I build clean, responsive interfaces
-- 📚 Studying while shipping real projects
-- 🤝 Always open to collaborating and contributing
-- 💬 Ask me about **React, CSS, and JavaScript**
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -52,4 +31,4 @@ const jxme = {
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-7f00ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b388ff,50:5b2a99,100:1a0b2e&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?t
