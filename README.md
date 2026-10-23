@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm jxmes-spy 
+# Hi there, I'm james 
 
 **A passionate developer who loves building clean, fast and creative things.**
 
