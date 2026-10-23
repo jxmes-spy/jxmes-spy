@@ -14,16 +14,6 @@
 
 <div align="center">
 
-## 🎬 Showreel
-
-<img src="raiden.gift.gif" alt="Showreel" width="320">
-
-</div>
-
----
-
-<div align="center">
-
 ## 📊 Stats
 
 <img width="560" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxmes-spy&theme=github_dark" alt="Stats">
