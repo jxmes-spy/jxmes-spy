@@ -1,59 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:006680,100:00e5ff&height=180&section=header&text=jxmes-spy&fontSize=52&fontColor=ffffff&fontAlignY=40" width="100%" />
+<img src="assets/raiden-ascii.gif" alt="Raiden ASCII animation" width="720">
 
-フロントエンド開発者
-<br>
-**Hi, I'm jxmes-spy!**
-<br>
+# `jxmes-spy`
 
-<img src="https://komarev.com/ghpvc/?username=jxmes-spy&label=PROFILE+VISITS&color=00bcd4&style=flat-square&labelColor=000000" />
+<sub>`> wake up, jxmes-spy_`</sub>
 
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=jxmes-spy&color=00e5ff&style=for-the-badge&label=VISITORS&labelColor=000000" alt="Profile views">
 
-<img src="./raiden.gif" width="300" alt="Raiden" />
+</div>
 
-<br>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=00E5FF&center=true&vCenter=true&width=420&lines=I'm+a+Frontend+Developer;I'm+a+Student;I'm+an+Open+Source+Enthusiast;Be+welcome!" alt="Typing SVG" />
+<div align="center">
 
-<br>
+## 🎬 Showreel
 
-<details>
-<summary><b>▶ More Info</b></summary>
-<br>
-🌐 I build clean, responsive interfaces<br>
-📚 Studying while shipping real projects<br>
-🤝 Always open to collaborating and contributing<br>
-💬 Ask me about React, CSS, and JavaScript
-</details>
+<video src="assets/raiden.mp4" width="320" controls loop muted></video>
 
-<br>
+</div>
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jxmes-spy&theme=nord_dark" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jxmes-spy&theme=nord_dark" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jxmes-spy&theme=nord_dark" />
+---
+
+<div align="center">
+
+## 📊 Stats
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxmes-spy&theme=github_dark" alt="Stats">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jxmes-spy&theme=github_dark" alt="Top languages">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jxmes-spy&theme=github_dark" alt="Most commit language">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jxmes-spy&bg_color=000000&color=00e5ff&line=00bcd4&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://streak-stats.demolab.com/?user=jxmes-spy&theme=dark&background=000000&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E9E9E&border=00E5FF33&hide_border=true" alt="GitHub streak">
 
-<br>
+</div>
 
-<img src="https://streak-stats.demolab.com/?user=jxmes-spy&background=000000&ring=00E5FF&fire=00BCD4&currStreakLabel=00E5FF&sideLabels=00BCD4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7FB8C4&stroke=006680&hide_border=true" />
+---
+
+<div align="center">
+
+## ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp,react,css,php,mysql&perline=8" alt="Tech stack">
+
+</div>
+
+---
+
+<div align="center">
+
+## 📡 Connect
+
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=00e5ff" alt="Email"></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=00e5ff" alt="Instagram"></a>
+<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=00e5ff" alt="Discord"></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"></a>
+<a href="https://github.com/jxmes-spy"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=00e5ff" alt="GitHub"></a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=java,js,python,cpp,react,css,php,mysql&theme=dark" />
-
-<br><br>
-
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=00e5ff" /></a>
-<a href="https://instagram.com/your-link"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=00e5ff" /></a>
-<a href="https://discord.com/users/your-id"><img src="https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=00e5ff" /></a>
-<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=00e5ff" /></a>
-<a href="https://github.com/jxmes-spy"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=00e5ff" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:006680,100:000000&height=120&section=footer" width="100%" />
+<sub>`> signal lost... but never forgotten_`</sub>
 
 </div>
