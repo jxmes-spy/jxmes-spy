@@ -42,28 +42,6 @@ const jxme = {
   <img src="https://skillicons.dev/icons?i=java,js,python,cpp,react,css,php,mysql&theme=dark" />
 </div>
 
-<div align="center">
-
-| Category | Tools |
-|----------|-------|
-| **Languages** | Java · JavaScript · Python · C++ · PHP · SQL |
-| **Frontend** | React · CSS |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxme-spy&theme=solarized_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jxme-spy&theme=solarized_dark" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jxme-spy&background=1A0B2E&ring=7F00FF&fire=B388FF&currStreakLabel=E0D4FF&sideLabels=B388FF&currStreakNum=E0D4FF&sideNums=E0D4FF&dates=9E86C8&stroke=5B2A99&hide_border=true" />
-</div>
-
 ---
 
 ## 🚀 Featured Projects
